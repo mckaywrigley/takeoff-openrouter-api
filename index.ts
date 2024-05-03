@@ -7,7 +7,7 @@ const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY
 });
 
-async function chat() {
+async function main() {
   const response = await openai.chat.completions.create({
     model: "gpt-3.5-turbo",
     messages: [
@@ -19,4 +19,4 @@ async function chat() {
   console.log(response.choices[0].message.content);
 }
 
-chat();
+main();

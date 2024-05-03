@@ -5,13 +5,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "tsc && node dist/index.js"
+    "start": "tsx index.ts"
   },
   "author": "Mckay Wrigley",
   "license": "MIT",
   "devDependencies": {
     "dotenv": "^16.4.5",
     "openai": "^4.38.2",
-    "typescript": "^5.4.5"
+    "tsx": "^4.9.0"
   }
 }
