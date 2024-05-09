@@ -57,11 +57,11 @@ Copy the relative path of the file.
 For the example code, run the following command:
 
 ```bash
-tsx examples/standard-chat.ts
+tsx examples/openai-compatible-chat.ts
 ```
 
 For your code, run the following command:
 
 ```bash
-tsx me/standard-chat.ts
+tsx me/openai-compatible-chat.ts
 ```
