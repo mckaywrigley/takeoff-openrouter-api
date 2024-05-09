@@ -5,9 +5,8 @@ This module is a guide to the OpenRouter API.
 ## Resources
 
 - [Takeoff](https://JoinTakeoff.com)
-- [OpenRouter Docs](https://console.openrouter.com/docs/quickstart)
-- [OpenRouter API Reference](https://console.openrouter.com/docs/libraries)
-- [OpenRouter API Cookbook](https://github.com/openrouter/openrouter-api-cookbook)
+- [OpenRouter Quick Start](https://openrouter.ai/docs#quick-start)
+- [OpenRouter Models](https://openrouter.ai/models)
 
 ## Recommendations
 

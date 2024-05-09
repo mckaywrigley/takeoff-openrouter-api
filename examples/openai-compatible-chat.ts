@@ -10,7 +10,7 @@ const openai = new OpenAI({
 
 async function main() {
   const response = await openai.chat.completions.create({
-    model: "openai/gpt-3.5-turbo",
+    model: "meta-llama/llama-3-8b-instruct:free",
     messages: [{ role: "user", content: "Say this is a test" }]
   });
   console.log(response);
